@@ -1,0 +1,11 @@
+# Ignore all .txt files
+*.txt
+
+# Ignore the reports directory
+reports/
+
+# Ignore the test-results directory
+test-results/
+
+# Ignore the node_modules directory
+node_modules/
